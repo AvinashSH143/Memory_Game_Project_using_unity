@@ -1,3 +1,6 @@
+<img width="279" height="484" alt="Screenshot 2025-07-21 174338" src="https://github.com/user-attachments/assets/51fe8ebc-0b9b-4d4d-8ca7-71f38a8d2358" />
+<img width="274" height="485" alt="Screenshot 2025-07-21 174238" src="https://github.com/user-attachments/assets/9ec2870a-2ec7-4904-aacb-7e66c37eb9cd" />
+<img width="279" height="484" alt="Screenshot 2025-07-21 174338" src="https://github.com/user-attachments/assets/218a377a-9715-4f3f-8148-8ad5e9eaafca" />
 # Memory_Game_Project_using_unity
 Remember color and win the game
 
@@ -54,3 +57,4 @@ To open the project in Unity:
 - Inspired by classic memory games like **Simon Says**
 - Thanks to Unity Learn and the Unity Community for tutorials and support.
 
+<img width="274" height="485" alt="Screenshot 2025-07-21 174238" src="https://github.com/user-attachments/assets/4a9203cc-04b1-47e0-8d6b-dfbbaa487e10" />
